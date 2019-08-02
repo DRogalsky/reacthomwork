@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reacthomwork/static/css/main.9dfb84e5.chunk.css",
+    "main.js": "/reacthomwork/static/js/main.8f1453dc.chunk.js",
+    "main.js.map": "/reacthomwork/static/js/main.8f1453dc.chunk.js.map",
+    "runtime~main.js": "/reacthomwork/static/js/runtime~main.21e1edde.js",
+    "runtime~main.js.map": "/reacthomwork/static/js/runtime~main.21e1edde.js.map",
+    "static/js/2.f75e8bbc.chunk.js": "/reacthomwork/static/js/2.f75e8bbc.chunk.js",
+    "static/js/2.f75e8bbc.chunk.js.map": "/reacthomwork/static/js/2.f75e8bbc.chunk.js.map",
+    "index.html": "/reacthomwork/index.html",
+    "precache-manifest.66785e75bd555583efb3e6531edaab5e.js": "/reacthomwork/precache-manifest.66785e75bd555583efb3e6531edaab5e.js",
+    "service-worker.js": "/reacthomwork/service-worker.js",
+    "static/css/main.9dfb84e5.chunk.css.map": "/reacthomwork/static/css/main.9dfb84e5.chunk.css.map",
+    "static/media/style.css": "/reacthomwork/static/media/header-background-training.1c0d7348.png"
+  }
+}
